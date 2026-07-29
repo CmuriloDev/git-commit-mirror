@@ -8,4 +8,7 @@ Each entry represents a commit sent automatically through Telegram.
 
 ---
 
+## July 28, 2026
+
+- 10:26AM — fix(security): [UI-09] tokenPermissions validation in AuthGuard and redirection via UrlTree
 
