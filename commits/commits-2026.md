@@ -13,3 +13,4 @@ Each entry represents a commit sent automatically through Telegram.
 ---
 ## July 29, 2026
 - 10:11AM — fix(avisos): adjust FlatList bottom padding for native navigation bar
+- 10:52AM — fix(login): adjust copyright responsivity
