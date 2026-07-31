@@ -19,4 +19,5 @@ Each entry represents a commit sent automatically through Telegram.
 ## July 31, 2026
 - 9:52AM — fix(storage): update MMKV instance initialization and error handling
 - 9:55AM — feat(auth): add remember-me persistence logic in LoginViewModel
+- 10:07AM — feat(auth): bind remember-me checkbox state in Login screen
 ---
