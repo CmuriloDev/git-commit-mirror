@@ -16,3 +16,6 @@ Each entry represents a commit sent automatically through Telegram.
 - 10:52AM — fix(login): adjust copyright responsivity
 - 11:26AM — fix(login): fix footer gray space
 ---
+## July 31, 2026
+- 9:52AM — fix(storage): update MMKV instance initialization and error handling
+---
