@@ -24,3 +24,5 @@ Each entry represents a commit sent automatically through Telegram.
 ## Aug 03, 2026
 - 1:37PM — fix(login): add height behavior to KeyboardAvoidingView
 ---
+## Aug 04, 2026
+- 10:13AM — fix(login): adjust top border radius for smoother card corners
