@@ -26,3 +26,5 @@ Each entry represents a commit sent automatically through Telegram.
 ---
 ## Aug 04, 2026
 - 10:13AM — fix(login): adjust top border radius for smoother card corners
+- 10:42AM — fix(login): remove border wrapper from remember-me checkbox and fix alignment
+---
