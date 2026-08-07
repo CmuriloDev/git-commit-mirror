@@ -28,3 +28,6 @@ Each entry represents a commit sent automatically through Telegram.
 - 10:13AM — fix(login): adjust top border radius for smoother card corners
 - 10:42AM — fix(login): remove border wrapper from remember-me checkbox and fix alignment
 ---
+## Aug 07, 2026
+- 5:56PM — feat: add multi-step patient registration screen
+---
