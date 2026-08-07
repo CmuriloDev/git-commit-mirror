@@ -29,5 +29,6 @@ Each entry represents a commit sent automatically through Telegram.
 - 10:42AM — fix(login): remove border wrapper from remember-me checkbox and fix alignment
 ---
 ## Aug 07, 2026
-- 5:56PM — feat: add multi-step patient registration screen
+- 5:06PM — feat: add multi-step patient registration screen
+- 5:26PM — fix: registration request auth headers, payload, and public-route handling
 ---
