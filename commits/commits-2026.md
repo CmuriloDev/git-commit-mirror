@@ -31,4 +31,5 @@ Each entry represents a commit sent automatically through Telegram.
 ## Aug 07, 2026
 - 5:06PM — feat: add multi-step patient registration screen
 - 5:26PM — fix: registration request auth headers, payload, and public-route handling
+- 5:42PM — fix: datepicker year/month button affordance
 ---
