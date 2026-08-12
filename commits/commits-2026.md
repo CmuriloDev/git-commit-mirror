@@ -33,3 +33,7 @@ Each entry represents a commit sent automatically through Telegram.
 - 5:26PM — fix: registration request auth headers, payload, and public-route handling
 - 5:42PM — fix: datepicker year/month button affordance
 ---
+## Aug 12, 2026
+- 10:02AM — feat: adapta painel do produtor para mobile
+-
+-
