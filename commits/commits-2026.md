@@ -33,8 +33,12 @@ Each entry represents a commit sent automatically through Telegram.
 - 5:26PM — fix: registration request auth headers, payload, and public-route handling
 - 5:42PM — fix: datepicker year/month button affordance
 ---
+## Aug 10, 2026
+- 12:30AM — feat: add app home page
+---
 ## Aug 11, 2026
 - 11:58PM — feat: add 'Minha Conta' screen
+- 12:13 — fix: esconde botao Entrar quando logado e renomeia secao Ingressos para Carteira
 ---
 ## Aug 12, 2026
 - 10:02AM — feat: adapta painel do produtor para mobile
