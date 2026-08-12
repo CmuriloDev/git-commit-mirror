@@ -37,6 +37,7 @@ Each entry represents a commit sent automatically through Telegram.
 - 12:30AM — feat: add app home page
 - 12:35AM — feat: add side scroll bar
 - 1:08PM — feat: add native login/signup screen with Supabase auth
+- 1:15PM — fix(login): fix login/register ui responsivity
 ---
 ## Aug 11, 2026
 - 11:58PM — feat: add 'Minha Conta' screen
