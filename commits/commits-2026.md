@@ -35,6 +35,7 @@ Each entry represents a commit sent automatically through Telegram.
 ---
 ## Aug 10, 2026
 - 12:30AM — feat: add app home page
+- 12:35 — feat: add side scroll bar
 ---
 ## Aug 11, 2026
 - 11:58PM — feat: add 'Minha Conta' screen
