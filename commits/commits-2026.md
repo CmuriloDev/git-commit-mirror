@@ -35,6 +35,5 @@ Each entry represents a commit sent automatically through Telegram.
 ---
 ## Aug 12, 2026
 - 10:02AM — feat: adapta painel do produtor para mobile
-- 10:23 — fix(produtor): corrige quebra de linha e reposiciona botao Novo evento
-
--
+- 10:23AM — fix(produtor): corrige quebra de linha e reposiciona botao Novo evento
+- 10:57AM — feat: adiciona botao de voltar padrao em todas as subpaginas
