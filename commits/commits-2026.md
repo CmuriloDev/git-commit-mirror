@@ -33,6 +33,9 @@ Each entry represents a commit sent automatically through Telegram.
 - 5:26PM — fix: registration request auth headers, payload, and public-route handling
 - 5:42PM — fix: datepicker year/month button affordance
 ---
+## Aug 11, 2026
+- 11:58PM — feat: add 'Minha Conta' screen
+---
 ## Aug 12, 2026
 - 10:02AM — feat: adapta painel do produtor para mobile
 - 10:23AM — fix(produtor): corrige quebra de linha e reposiciona botao Novo evento
