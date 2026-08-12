@@ -38,3 +38,4 @@ Each entry represents a commit sent automatically through Telegram.
 - 10:23AM — fix(produtor): corrige quebra de linha e reposiciona botao Novo evento
 - 10:57AM — feat: adiciona botao de voltar padrao em todas as subpaginas
 - 11:17AM — feat(produtor): adiciona as 4 abas do painel (Painel, Novo evento, Metricas, Configuracoes)
+- 4:45PM — feat(registration): ajusta migrations e suporte para solicitação de cadastro via app
