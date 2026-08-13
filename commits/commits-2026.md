@@ -52,4 +52,5 @@ Each entry represents a commit sent automatically through Telegram.
 - 5:48PM — feat(registration): adiciona fluxo nativo de cadastro em 3 etapas no app
 - 7:30PM — feat(produtor): implementa primeiro step de criacao de evento
 - 9:28PM — feat(produtor): adiciona modulo de ingressos ao criador de evento
+- 9:38 — feat(produtor): implementa aba Dados do gerenciamento de evento
 ---
